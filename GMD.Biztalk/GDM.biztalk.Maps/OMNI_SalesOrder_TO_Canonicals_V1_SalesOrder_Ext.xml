@@ -1,0 +1,3 @@
+<ExtensionObjects>
+<ExtensionObject Namespace="http://OM.BizTalk.AzureFeeds.OMNI.Maps/Ext" AssemblyName="OM.BizTalk.AzureFeeds.OMNI.Library, Version=1.0.0.0, Culture=neutral, PublicKeyToken=c5cd9d28684eeb90" ClassName="OM.BizTalk.AzureFeeds.OMNI.Library.MappingUtility"/>
+</ExtensionObjects>
