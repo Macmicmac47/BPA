@@ -66,10 +66,6 @@
       <Services />
       <TrackedSchemas />
     </ModuleRef>
-    <ModuleRef Name="GDM.biztalk.Maps" Version="1.0.0.0" Culture="neutral" PublicKeyToken="5f1b4afb633d12e6" FullName="GDM.biztalk.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5f1b4afb633d12e6">
-      <Services />
-      <TrackedSchemas />
-    </ModuleRef>
   </ModuleRefCollection>
   <SendPortCollection>
     <SendPort Name="gdn_snd" IsStatic="true" IsTwoWay="false" BindingOption="0">
@@ -151,9 +147,6 @@
       <SendPipelineData xsi:nil="true" />
       <Authentication>0</Authentication>
       <Tracking>51</Tracking>
-      <Transforms>
-        <Transform FullName="GDM.biztalk.Maps.OMNI_SalesOrder_TO_Canonicals_V1_SalesOrder" AssemblyQualifiedName="GDM.biztalk.Maps.OMNI_SalesOrder_TO_Canonicals_V1_SalesOrder,GDM.biztalk.Maps, Version=1.0.0.0, Culture=neutral, PublicKeyToken=5f1b4afb633d12e6" />
-      </Transforms>
       <RouteFailedMessage>false</RouteFailedMessage>
       <ApplicationName>GDM</ApplicationName>
     </ReceivePort>
