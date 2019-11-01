@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDM.Biztalk.Schemas", "GDM.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDM.Biztalk.Pipelines", "GDM.Biztalk.Pipelines\GDM.Biztalk.Pipelines.btproj", "{370431F1-707C-4613-908D-7C96664DA7F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDM.biztalk.Maps", "GDM.biztalk.Maps\GDM.biztalk.Maps.btproj", "{D8ADA0B6-4670-453C-8AB8-E8EC3BB464F5}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Deployment", "Deployment", "{528C65DA-E06E-4289-963A-E24EAD5DD692}"
 	ProjectSection(SolutionItems) = preProject
 		Deployment\Deployment.btdfproj = Deployment\Deployment.btdfproj
@@ -37,12 +35,6 @@ Global
 		{370431F1-707C-4613-908D-7C96664DA7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{370431F1-707C-4613-908D-7C96664DA7F1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{370431F1-707C-4613-908D-7C96664DA7F1}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{D8ADA0B6-4670-453C-8AB8-E8EC3BB464F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D8ADA0B6-4670-453C-8AB8-E8EC3BB464F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D8ADA0B6-4670-453C-8AB8-E8EC3BB464F5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{D8ADA0B6-4670-453C-8AB8-E8EC3BB464F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D8ADA0B6-4670-453C-8AB8-E8EC3BB464F5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D8ADA0B6-4670-453C-8AB8-E8EC3BB464F5}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
